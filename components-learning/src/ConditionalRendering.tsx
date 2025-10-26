@@ -17,6 +17,6 @@ const ConditionalRendering = (props: Iprops) => {
         <div>{isLoggedIn ? <h1>Yes, Login</h1> : checkIfUserHasAccount(false)}</div>
     );
 
-};
+}; 
 
 export default ConditionalRendering;

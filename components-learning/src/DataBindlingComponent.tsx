@@ -23,7 +23,7 @@ const DataBinding = () => {
 
 
         </form>
-    )
+    ) 
 }
 
 export default DataBinding;

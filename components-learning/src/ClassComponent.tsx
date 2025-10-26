@@ -12,7 +12,7 @@ interface ClassCounterProps {
 interface ClassCounterState {
     count:number;
 }
-
+ 
 class ClassCounter extends Component <ClassCounterProps,ClassCounterState>{
     constructor(props : ClassCounterProps) {
         super(props);

@@ -15,6 +15,6 @@ function Greeting(props: any) {
         </div>
     );
 }
-
+ 
 export default Greeting;
 

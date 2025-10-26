@@ -10,4 +10,4 @@ function WelcomeMessage(props: any) {
     return <h1>Please log in</h1>;
 }
 
-export default WelcomeMessage;
+export default WelcomeMessage; 

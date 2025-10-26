@@ -7,4 +7,4 @@ function ButtonCheckComponent() {
     );
 }
 
-export default ButtonCheckComponent;
+export default ButtonCheckComponent; 

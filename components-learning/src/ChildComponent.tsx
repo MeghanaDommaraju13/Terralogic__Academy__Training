@@ -5,4 +5,4 @@ function ChildComponent(props: any) {
     );
 }
 
-export default ChildComponent;
+export default ChildComponent; 

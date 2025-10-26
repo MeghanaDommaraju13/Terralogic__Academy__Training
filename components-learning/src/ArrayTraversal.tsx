@@ -13,4 +13,4 @@ const ArrayTraversal = () => {
     )
 }
 
-export default ArrayTraversal;
+export default ArrayTraversal; 
